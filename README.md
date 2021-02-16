@@ -53,7 +53,11 @@ target: 0 – Not looking for job change, 1 – Looking for a job change
 
 # Result 
 Fold --> 0   | AUC Score --> 0.808
+
 Fold --> 1   | AUC Score --> 0.792
+
 Fold --> 2   | AUC Score --> 0.810
+
 Fold --> 3   | AUC Score --> 0.783
+
 Fold --> 4   | AUC Score --> 0.794
